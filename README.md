@@ -12,4 +12,5 @@ I'm a passionate experimenter based in the Czech Republic
 `Python` `HTML` `CSS` 
 
 📫 Connect With Me
-[TikTok] https://www.tiktok.com/@reallydiarnt   [YouTube] https://www.youtube.com/@DiarNT-gg
+[TikTok] https://www.tiktok.com/@reallydiarnt
+[YouTube] https://www.youtube.com/@DiarNT-gg
