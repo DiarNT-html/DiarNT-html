@@ -6,7 +6,7 @@ I'm a passionate experimenter based in the Czech Republic
 - 🔭 Working on: https://restaurantmentorigrill.netlify.app, a website for my uncle's restaurant
 - 🌱 Currently learning: everything lol
 - 💬 Ask me about: Anything!
-- ⚡ Fun fact: 
+- ⚡ Fun fact: i like geography
 
 🛠️ Languages & Tools
 `Python` `HTML` `CSS` 
