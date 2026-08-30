@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm DiarNT 👋<br><br>I'm a passionate experimenter based in the Czech Republic<br><br>- 🔭 What I'm Up To<br>- 🔭 Working on: https://restaurantmentorigrill.netlify.app, a website for my uncle's restaurant<br>- 🌱 Currently learning: everything lol<br>- 💬 Ask me about: Anything!<br>- ⚡ Fun fact: i like geography<br><br>🛠️ Languages & Tools<br>`Python` `HTML` `CSS` <br><br>📫 Connect With Me<br>[TikTok] https://www.tiktok.com/@reallydiarnt<br>[YouTube] https://www.youtube.com/@DiarNT-gg<br>
+Hi there, I'm DiarNT 👋<br><br>I'm a passionate experimenter based in the Czech Republic<br><br>- 🔭 What I'm Up To<br>- 🔭 Working on: https://restaurantmentorigrill.netlify.app, a website for my uncle's restaurant<br>- 🌱 Currently learning: everything lol<br>- 💬 Ask me about: Anything!<br>- ⚡ Fun fact: i like geography<br><br>🛠️ Languages & Tools<br>`Python` `HTML` `CSS` <br><br>
 
 
 ## 🌐 Socials:
